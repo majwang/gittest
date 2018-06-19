@@ -1,0 +1,20 @@
+{
+
+	"require":
+
+	{ "nuwa/framework": "1.*", "nuwa/log": "1.*" }
+	,
+
+	"repositories": [
+
+		 
+
+		{ "type":"path", "url": "~/nuwa-log" }
+		,
+
+		{ "type":"path", "url":"~/nuwa-framework" }
+	]
+
+}
+
+
