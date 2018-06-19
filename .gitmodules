@@ -1,0 +1,3 @@
+[submodule "gitlfstest"]
+	path = gitlfstest
+	url = https://github.com/majwang/gitlfstest.git
